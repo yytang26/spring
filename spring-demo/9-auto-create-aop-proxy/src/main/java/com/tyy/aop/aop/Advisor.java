@@ -1,0 +1,9 @@
+package com.tyy.aop.aop;
+
+import org.aopalliance.aop.Advice;
+
+
+public interface Advisor {
+
+    Advice getAdvice();
+}

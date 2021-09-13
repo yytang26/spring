@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="2-abstract-beanfactory-and-do-bean-initilizing-in-it" />
+        <module name="8-invite-pointcut-and-aspectj" />
+        <module name="1-container-register-and-get" />
+        <module name="10-invite-cglib-and-aopproxy-factory" />
+        <module name="5-inject-bean-to-bean" />
+        <module name="3-inject-bean-with-property" />
+        <module name="6-invite-application-context" />
+        <module name="9-auto-create-aop-proxy" />
+        <module name="7-method-interceptor-by-jdk-dynamic-proxy" />
+        <module name="4-config-beanfactory-with-xml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="8-invite-pointcut-and-aspectj" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

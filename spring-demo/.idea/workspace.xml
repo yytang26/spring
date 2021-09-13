@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a020488-dd2e-4da6-99ff-33aca2ab751f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\.m" />
+        <option name="mavenHome" value="F:/ProgrammaerApplication/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\ProgrammaerApplication\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xKzGv1GASso3qm6rzpmQ2Fb9hJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/1-container-register-and-get/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/10-invite-cglib-and-aopproxy-factory/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tyy.ioc" />
+      <recent name="com.tyy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tyy.ioc.beans.xml" />
+      <recent name="com.tyy.ioc" />
+      <recent name="com.tyy.ioc.xml" />
+      <recent name="com.tyy.ioc.io" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\project\framework\spring-demo\10-invite-cglib-and-aopproxy-factory\src" />
+      <recent name="D:\java\project\framework\spring-demo\9-auto-create-aop-proxy\src\test" />
+      <recent name="D:\java\project\framework\spring-demo\9-auto-create-aop-proxy\src\main\java" />
+      <recent name="D:\java\project\framework\spring-demo\8-tiny-spring-step-8-invite-pointcut-and-aspectj\src\test" />
+      <recent name="D:\java\project\framework\spring-demo\8-tiny-spring-step-8-invite-pointcut-and-aspectj\src\main\java\cpm\tyy\aop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AspectJExpressionPointcutTest.test">
+    <configuration name="AspectJExpressionPointcutTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="9-auto-create-aop-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyy.aop.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tyy.aop.aop" />
+      <option name="MAIN_CLASS_NAME" value="com.tyy.aop.aop.AspectJExpressionPointcutTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AspectJExpressionPointcutTest.testAdvice (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="9-auto-create-aop-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyy.aop.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tyy.aop.aop" />
+      <option name="MAIN_CLASS_NAME" value="com.tyy.aop.aop.AspectJExpressionPointcutTest" />
+      <option name="METHOD_NAME" value="testAdvice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AspectJExpressionPointcutTest.testMethodInterceptor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="9-auto-create-aop-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyy.aop.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tyy.aop.aop" />
+      <option name="MAIN_CLASS_NAME" value="com.tyy.aop.aop.AspectJExpressionPointcutTest" />
+      <option name="METHOD_NAME" value="testMethodInterceptor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanFactoryTest.testLazy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="9-auto-create-aop-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyy.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tyy.aop" />
+      <option name="MAIN_CLASS_NAME" value="com.tyy.aop.BeanFactoryTest" />
+      <option name="METHOD_NAME" value="testLazy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdkDynamicAopProxyTest.testInterceptor (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="9-auto-create-aop-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyy.aop.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tyy.aop.aop" />
+      <option name="MAIN_CLASS_NAME" value="com.tyy.aop.aop.JdkDynamicAopProxyTest" />
+      <option name="METHOD_NAME" value="testInterceptor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AspectJExpressionPointcutTest.test" />
+        <item itemvalue="JUnit.BeanFactoryTest.testLazy" />
+        <item itemvalue="JUnit.AspectJExpressionPointcutTest.testAdvice (1)" />
+        <item itemvalue="JUnit.JdkDynamicAopProxyTest.testInterceptor (1)" />
+        <item itemvalue="JUnit.AspectJExpressionPointcutTest.testMethodInterceptor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a020488-dd2e-4da6-99ff-33aca2ab751f" name="Default Changelist" comment="" />
+      <created>1630118475151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630118475151</updated>
+      <workItem from="1630118478062" duration="24440000" />
+      <workItem from="1631018418287" duration="6241000" />
+      <workItem from="1631534290996" duration="329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="4" key="#Project_Structure" timestamp="1630137448973">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="4" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1630137448973" />
+    <state x="446" y="55" key="#com.intellij.ide.util.MemberChooser" timestamp="1630157566972">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="55" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1630157566972" />
+    <state x="166" y="270" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1630157829124">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="166" y="270" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689@0.0.1280.689" timestamp="1630157829124" />
+    <state x="352" y="204" width="576" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1630119181773">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="352" y="204" width="576" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689@0.0.1280.689" timestamp="1630119181773" />
+    <state x="217" y="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1630157830428">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="217" y="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.689@0.0.1280.689" timestamp="1630157830428" />
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631020227799">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1631020227799" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1631018588917">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1631018588917" />
+    <state width="1237" height="23" key="GridCell.Tab.0.bottom" timestamp="1631026640540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1631026640540" />
+    <state width="1237" height="23" key="GridCell.Tab.0.center" timestamp="1631026640540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1631026640540" />
+    <state width="1237" height="23" key="GridCell.Tab.0.left" timestamp="1631026640540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1631026640540" />
+    <state width="1237" height="23" key="GridCell.Tab.0.right" timestamp="1631026640540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1631026640540" />
+    <state width="1237" height="23" key="GridCell.Tab.1.bottom" timestamp="1631026640540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1631026640540" />
+    <state width="1237" height="23" key="GridCell.Tab.1.center" timestamp="1631026640540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1631026640540" />
+    <state width="1237" height="23" key="GridCell.Tab.1.left" timestamp="1631026640540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1631026640540" />
+    <state width="1237" height="23" key="GridCell.Tab.1.right" timestamp="1631026640540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="23" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1631026640540" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1631021058489">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1631021058489" />
+    <state x="439" y="123" key="chooseDestDirectoryDialog" timestamp="1630119164311">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="439" y="123" key="chooseDestDirectoryDialog/0.0.1280.689@0.0.1280.689" timestamp="1630119164311" />
+    <state x="56" y="65" key="new project wizard" timestamp="1631534465062">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="56" y="65" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1631534465062" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1630134222330">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1630134222330" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/7-method-interceptor-by-jdk-dynamic-proxy/src/main/java/com/tyy/aop/aop/JdkDynamicAopProxy.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/7-method-interceptor-by-jdk-dynamic-proxy/src/test/java/com/tyy/aop/aop/TimerInterceptor.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
